@@ -1,0 +1,1 @@
+This is a personal site that is used to learn some aspects of front-end development.  
